@@ -1,0 +1,20 @@
+body{
+   height: 4000px; 
+    
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+}
+p:nth-of-type(1){
+    margin-top: 80px;
+}
+.bgnavbar2{
+    background-color: rgba(0, 0, 255, 0.908) !important;
+    transition: all 0.5s linear;
+}
+.bg-dark{
+    transition: all 0.5s linear;
+}
